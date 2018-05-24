@@ -5,7 +5,20 @@ excerpt_separator:  <!--more-->
 ---
 
 ## Hello World!
+```python
+for x in range(7):
+    for y in range(4):
+        print(f'{x}, {y}')
 
+def what_fruit(color):
+    if color == 'red':
+        return 'apple'
+    elif color == 'yellow':
+        return 'banana'
+    elif color == 'green':
+        return 'melon'
+    else:
+        return 'I dont know'
 
 
 ## install
