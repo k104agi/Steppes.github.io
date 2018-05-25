@@ -4,7 +4,7 @@ title: 파이썬 09.함수 실습문제 풀이
 excerpt_separator:  <!--more-->
 ---
 
-## Hello World!
+## !!!!
 ```python
 for x in range(7):
     for y in range(4):
@@ -19,8 +19,4 @@ def what_fruit(color):
         return 'melon'
     else:
         return 'I dont know'
-
-        ```
-
-
-## install
+```
